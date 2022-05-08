@@ -1,0 +1,1 @@
+This is a simple website used for practice on the odin project.
